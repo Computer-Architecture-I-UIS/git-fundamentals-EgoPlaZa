@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+# Diego Julian Plaza Quintero
 
 ## 🤓 Course overview and learning outcomes 
 
